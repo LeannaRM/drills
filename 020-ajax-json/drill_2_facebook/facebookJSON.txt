@@ -1,0 +1,140 @@
+{"post": {
+
+	"personInfo": {
+		"name": "Leanna",
+		"numberFriends": 40,
+		"profilePhoto": "jpg"
+	},
+	"postInfo": {
+		"datePosted": "Yesterday at 10:00am",
+		"postText": "Hello World",
+		"numberLikes": 28,
+		"numberComments": 3
+	},
+	"postComments": [
+		{
+		"commenterName": "Paul",
+		"commentText": "Donec imperdiet sem leo, id rutrum risus aliquam vitae. Cras tincidunt porta mauris, vel feugiat mauris accumsan eget.",
+		"numberLikes": 2,
+		"numberReplies": 4,
+		"commentTime": "Yesterday at 10:00am",
+		"replies": [
+			{
+			"replyName": "Bob",
+			"replyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempus urna efficitur vulputate malesuada. ",
+			"numberLikes": 2,
+			"numberReplies": 0,
+			"replyTime": "Yesterday at 10:00am",
+			"replies": []
+			},
+			{
+			"replyName": "Joe",
+			"replyText": "Suspendisse convallis quis arcu ac hendrerit. Donec eros velit, commodo et odio vel, venenatis molestie turpis.",
+			"numberLikes": 2,
+			"numberReplies": 0,
+			"replyTime": "Yesterday at 10:00am",
+			"replies": []
+			},
+			{
+			"replyName": "Susie",
+			"replyText": "Integer vulputate dictum tortor, condimentum consequat arcu tempus sit amet. Maecenas lobortis ligula non aliquam suscipit. Sed dui ipsum, fermentum non neque ac, eleifend mollis purus.",
+			"numberLikes": 2,
+			"numberReplies": 2,
+			"replyTime": "Yesterday at 10:00am",
+			"replies": [
+				{
+				"replyName": "Amy",
+				"replyText": "Nunc imperdiet mauris eu blandit volutpat. Proin egestas rutrum est, id ultrices neque pretium nec.",
+				"numberLikes": 2,
+				"numberReplies": 0,
+				"replyTime": "Yesterday at 10:00am",
+				"replies": []
+				},
+				{
+				"replyName": "Ali",
+				"replyText": "Donec laoreet urna eget dui tempor condimentum. Nullam lobortis magna nibh, ut posuere quam tincidunt sit amet.",
+				"numberLikes": 2,
+				"numberReplies": 0,
+				"replyTime": "Yesterday at 10:00am",
+				"replies": []
+				}
+			]},
+			{
+			"replyName": "Larry",
+			"replyText": "Curabitur tincidunt finibus mi et congue. Praesent a mollis metus, in dictum nulla.",
+			"numberLikes": 2,
+			"numberReplies": 0,
+			"replyTime": "Yesterday at 10:00am",
+			"replies": []
+			}
+		]},
+		{
+		"commenterName": "Beth",
+		"commentText": "Sed erat nibh, accumsan vel mauris non, scelerisque posuere leo.",
+		"numberLikes": 2,
+		"numberReplies": 0,
+		"commentTime": "Yesterday at 10:00am",
+		"replies": []
+		},
+		{
+		"commenterName": "Lizzy",
+		"commentText": "Integer consequat, est id accumsan lacinia, velit augue varius risus, non fringilla arcu tellus nec mauris. Quisque id ultrices dui, id pellentesque neque.",
+		"numberLikes": 2,
+		"numberReplies": 3,
+		"commentTime": "Yesterday at 10:00am",
+		"replies": [
+			{
+			"replyName": "Jenny",
+			"replyText": "Nunc imperdiet mauris eu blandit volutpat. Proin egestas rutrum est, id ultrices neque pretium nec.",
+			"numberLikes": 2,
+			"numberReplies": 0,
+			"replyTime": "Yesterday at 10:00am",
+			"replies": []
+			},
+			{
+			"replyName": "Tom",
+			"replyText": "Morbi aliquet elit ac egestas mollis. Suspendisse blandit diam eget dignissim volutpat. Sed lobortis placerat elit, non hendrerit ante egestas id.",
+			"numberLikes": 2,
+			"numberReplies": 3,
+			"replyTime": "Yesterday at 10:00am",
+			"replies": [
+				{
+				"replyName": "Jill",
+				"replyText": "Nunc imperdiet mauris eu blandit volutpat. Proin egestas rutrum est, id ultrices neque pretium nec.",
+				"numberLikes": 2,
+				"numberReplies": 0,
+				"replyTime": "Yesterday at 10:00am",
+				"replies": []
+				},
+				{
+				"replyName": "Tim",
+				"replyText": "Ut ornare congue erat vel semper. Aliquam scelerisque sapien quis nisi rhoncus condimentum. Pellentesque et commodo sapien. Aliquam sagittis vulputate iaculis.",
+				"numberLikes": 2,
+				"numberReplies": 0,
+				"replyTime": "Yesterday at 10:00am",
+				"replies": []
+				},
+				{
+				"replyName": "Ann",
+				"replyText": "Suspendisse nec porttitor est. Vivamus scelerisque, nulla id interdum rutrum, metus velit tempor dolor, ut aliquet augue augue ac lectus.",
+				"numberLikes": 2,
+				"numberReplies": 0,
+				"replyTime": "Yesterday at 10:00am",
+				"replies": []
+				}
+			]
+			},
+			{
+			"replyName": "Jim",
+			"replyText": "Proin ac viverra enim. Maecenas et facilisis odio, eu pretium metus.",
+			"numberLikes": 2,
+			"numberReplies": 0,
+			"replyTime": "Yesterday at 10:00am",
+			"replies": []
+			}
+
+		]
+		}
+	]
+	}
+}
