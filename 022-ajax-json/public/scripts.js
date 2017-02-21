@@ -24,7 +24,7 @@ window.addEventListener("load", function (){
 
 		htmlToInsert = "<h1>Movie List</h1><div class='movie'></div>";
 		document.getElementsByClassName('results')[0].insertAdjacentHTML('beforeend', htmlToInsert);
-		createHTML(data);
+		createHTML();
 		createPreviousButton();
 		createNextButton();	
 	};
@@ -66,6 +66,3 @@ window.addEventListener("load", function (){
 
 
 });
-
-// formdata = new FormData(formnode)
-// fromdata.tostring - returns querystring
